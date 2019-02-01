@@ -1,0 +1,2 @@
+# Murphy: The omni-wheel robot
+This was my second robot, but the first one that was remote controlled. Needless to say, despite following a plan from Make magazine,  everything that could have gone wrong did go wrong.  And that's why I called it Murphy.  Eventually one of the plastic gear motor's axles snapped and Murphy was dead.  He lives on in the spare parts used to make him and in an inital version of an analog proportional servo motor controller.
