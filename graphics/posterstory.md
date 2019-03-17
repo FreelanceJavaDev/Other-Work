@@ -1,4 +1,4 @@
-![Poster](FestivalPosterFINAL.png)
+![Poster](./FestivalPosterFINAL.png)
       
 # The Accidental Club Logo
 
