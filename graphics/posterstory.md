@@ -1,4 +1,4 @@
-![Poster](/Other-Work/graphics/FestivalPosteFINAL.png)
+![Poster](/graphics/FestivalPosteFINAL.png)
       
       
       
