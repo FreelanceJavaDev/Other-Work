@@ -1,4 +1,5 @@
-[!Poster](/Other-Work/graphics/Festival poster full size FINAL.svg)
+[!Poster](Other-Work/graphics/Festival poster full size FINAL.svg)
+      
 # The Accidental Club Logo
 
 Sometimes artwork without the artist even having to say anything can become a Logo, even if it wasn't intended to.  
