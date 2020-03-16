@@ -1,4 +1,4 @@
-![Poster](/graphics/Punch Chard Backs 2.png)
+![Poster](graphics/Final Blast 6x punch cards2 Backs.pdf)
 # Punch Cards
 
 Ah, Fall Semester Finals... The hall council in my dorm I was part of organized a party before finals.  I suggested the name Final Blast as a joke.  Unfortunately we had to make this "Study related" type of event.  And that's part of the reason for the punch cards.  It's study tips and that was our "Study related" segment.  
